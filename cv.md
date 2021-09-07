@@ -1,4 +1,4 @@
-![Alex's pfoto](https://sun9-43.userapi.com/impf/PSaKeMlzxVu9Xt1hGDXM_QUzWC8b8VsjAf33Aw/SKbHcy3_FDA.jpg?size=2560x1713&quality=96&sign=c96d778151288850c42afe3e690229d6&type=album)
+![Alex's photo](https://sun9-43.userapi.com/impf/PSaKeMlzxVu9Xt1hGDXM_QUzWC8b8VsjAf33Aw/SKbHcy3_FDA.jpg?size=2560x1713&quality=96&sign=c96d778151288850c42afe3e690229d6&type=album)
 
 # Aliaksandr Kucharavenka
  - Date of birth: 22/11/1991
