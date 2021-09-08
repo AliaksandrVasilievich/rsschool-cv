@@ -16,4 +16,4 @@ Familiar with Delphi as part of studying an information technology course while 
  + 2009-2014: Gomel State Technical University named after P.O. Sukhoi, Faculty of Energy / Power Engineer.
  + 2012-2014: Gomel State Technical University named after P.O. Sukhoi, Faculty of Humanities and Economics / Economist
  + 2014-2016: Gomel State Technical University named after P.O. Sukhoi, Faculty of Energy, Magistracy / Master of Technical Sciences.
-## English level: A2
+## English level: A1
