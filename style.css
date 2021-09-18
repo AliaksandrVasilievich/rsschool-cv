@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: "Open Sans";
+    background-color: #ecebea;
+    scroll-behavior: smooth;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+.photo{
+    max-width: 1200px;
+    margin:auto;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.menu{
+    display: inline-block;
+    color: black;
+    font-weight: 600;
+    margin: 10px 0;
+}
+.menu:hover{
+    color:rgb(157, 43, 43);
+}
+header{
+    align-items: center;
+}
+.avatar{
+    margin: 20px;
+    width: 600px;
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.name{
+    text-align: center;
+}
+.name h1{
+    font-size: 1.5em;
+    font-weight: 600px;
+}
+.dateOfBirth{
+    padding:20px;
+}
+.dateOfBirth ul{
+    margin-left: 20px;
+}
+.contacts {
+    padding:20px;
+}
+.contacts ul{
+    margin-left: 20px;
+}
+.summary{
+    padding:20px;
+}
+.skills{
+    padding: 20px;
+}
+.skills p{
+    text-align: justify;
+}
+.code{
+    padding: 20px;
+}
+pre {
+    width: 100%;
+    padding-left: 0;
+    display: flex;
+    
+}
+pre code.hljs {
+    background-color: #ecebea;
+}
+
+.education{
+    padding: 20px;
+}
+.education ul{
+    margin-left: 20px;
+}
+.langLevel{
+    padding:20px;
+}
+footer{
+    height: 80px;
+    display:grid;
+    grid-template-columns: auto repeat(2,80px);
+    grid-template-rows: 80px;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+}
+footer img{
+    width: 90%;
+}
