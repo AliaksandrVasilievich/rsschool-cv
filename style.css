@@ -1,7 +1,10 @@
 *{
     margin:0;
     padding: 0;
-    font-family: "Calibri";
+    font-family: "Open Sans";
+    background-color: #ecebea;
+    scroll-behavior: smooth;
+    font-size: 25px;
 }
 a{
     text-decoration: none;
@@ -10,13 +13,27 @@ a{
     max-width: 1200px;
     margin:auto;
 }
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.menu{
+    display: inline-block;
+    color: black;
+    font-weight: 600;
+    margin: 10px 0;
+}
+.menu:hover{
+    color:brown;
+}
 header{
-    margin: 20px;
     align-items: center;
 }
 .avatar{
-    width: 400px;
-    border-radius: 5px;
+    margin: 20px;
+    width: 600px;
+    border-radius: 30px;
     display: block;
     margin-left: auto;
     margin-right: auto
@@ -49,6 +66,19 @@ header{
 .skills p{
     text-align: justify;
 }
+.code{
+    padding: 20px;
+}
+pre {
+    width: 100%;
+    padding-left: 0;
+    display: flex;
+    
+}
+pre code.hljs {
+    background-color: #ecebea;
+}
+
 .education{
     padding: 20px;
 }
@@ -65,6 +95,7 @@ footer{
     grid-template-rows: 80px;
     justify-items: center;
     align-items: center;
+    flex-direction: column;
 }
 footer img{
     width: 90%;
